@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\tekrar\tekrar\bin\Debug\tekrar.exe.config
+C:\Users\DELL\source\repos\tekrar\tekrar\bin\Debug\tekrar.exe
+C:\Users\DELL\source\repos\tekrar\tekrar\bin\Debug\tekrar.pdb
+C:\Users\DELL\source\repos\tekrar\tekrar\obj\Debug\tekrar.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\tekrar\tekrar\obj\Debug\tekrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\tekrar\tekrar\obj\Debug\tekrar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\tekrar\tekrar\obj\Debug\tekrar.exe
+C:\Users\DELL\source\repos\tekrar\tekrar\obj\Debug\tekrar.pdb
